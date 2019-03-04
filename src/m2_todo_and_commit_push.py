@@ -12,11 +12,11 @@
 #   Anything surrounded by quote marks (single or double) is a STRING.
 #
 ###############################################################################
-print('Hello, World')
 
+print('Hello, World')
 ###############################################################################
 #
-# TODO: 1.
+# DONE: 1.
 #   (Yes, that means for YOU to DO things per these instructions:)
 #
 #   Run this module by right clicking anywhere in this window
@@ -29,10 +29,10 @@ print('Hello, World')
 #   did indeed get printed (displayed) on that window.
 #
 ###############################################################################
-
+print(1)
 ###############################################################################
 #
-# TODO: 2.
+#DONE: 2.
 #   Notice the small horizontal BLUE bars on the scrollbar-like thing
 #   on the right.  Each blue bar indicates a thing TO-DO in this module.
 #
@@ -57,9 +57,10 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 3.
+# done: 3.
 #   Add another   print   statement below this comment.
 #   It should print any string that you want (but keep it polite and G-rated!)
+print('2+5' 'versus'' 7')
 #
 #   Test your code by re-running this module, either by proceeding
 #   as you did when you ran this module the first time,
@@ -68,15 +69,15 @@ print('Hello, World')
 #   Look at the  Run  window to be sure that your string printed as expected.
 #
 ###############################################################################
-
+print(3607*34227)
 ###############################################################################
 #
-# TODO: 4.
+# Done: 4.
 #   Add yet another   print   statement, putting it below this comment.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you (no calculators!).
 #   You do NOT have to use strings for this, so no quotation marks!
-#
+
 #   TEST your code by re-running this module, then asking someone
 #   whom you trust:
 #      What number did your   print   display for this TO-DO?
